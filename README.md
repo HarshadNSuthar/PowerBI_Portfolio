@@ -1,10 +1,14 @@
 📊 Financial Dashboard – Power BI Report
 
+![image](https://github.com/user-attachments/assets/720a48ec-c155-4540-91b9-85601976b9b0)  ![image](https://github.com/user-attachments/assets/226ac802-6ccf-4a30-822b-afc4289dbfa7) ![image](https://github.com/user-attachments/assets/6eb86de2-c6c7-4e34-b9fb-6dab369d081c)
+
+
+
+
 🔍 1. Purpose
 This Power BI dashboard provides a real-time financial snapshot, helping stakeholders track revenue, expenses, profit, and budget performance — all in one place. The goal: enable fast, data-driven decisions.
 
 👥 2. Audience
-CFO & Finance Teams
 
 Senior Management
 
