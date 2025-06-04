@@ -56,9 +56,4 @@ Tooltips with YoY comparison
 
 Dynamic alerts using conditional formatting
 
-🧭 8. Improvements Planned
-Add forecasting models using AutoML
 
-Set up email alerts via Power Automate
-
-Apply RLS for department-level access
