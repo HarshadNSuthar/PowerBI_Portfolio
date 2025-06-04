@@ -5,7 +5,9 @@
 
 
 
+
 🔍 1. Purpose
+
 This Power BI dashboard provides a real-time financial snapshot, helping stakeholders track revenue, expenses, profit, and budget performance — all in one place. The goal: enable fast, data-driven decisions.
 
 👥 2. Audience
